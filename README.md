@@ -71,7 +71,7 @@
 <h1 align="center">Hi 👋, I'm Medardo Paz</h1>
 
 <p align="center">
-  <img src="https://www.codewars.com/users/Jhomar-Alexis/badges/large" alt="Codewars Badge" />
+  <img src="https://www.codewars.com/users/mpaz2020/badges/large" alt="Codewars Badge" />
 </p>
 
 ## 🐍 GitHub Contribution Snake
@@ -108,7 +108,7 @@
 ### 📫 Contacto
 
 - 💻 Desarrollador web de Perú 🇵🇪 +51 971375528
-- 📩 GitHub: [Jhomar-Alexis](https://github.com/Jhomar-Alexis)
+- 📩 GitHub: [Medardo Paz](https://github.com/mpaz2020)
 
 ### 📬 También en:
 
