@@ -60,7 +60,7 @@
 
 ## ✨ Wilder Torres' Awesome GitHub Stats
 
-![Wilder Torres' GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilderTorres18&show_icons=true&theme=tokyonight&hide=prs,issues)
+![Medardo Paz' GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilderTorres18&show_icons=true&theme=tokyonight&hide=prs,issues)
 
 ## 🗂️ Profile Summary Cards
 
