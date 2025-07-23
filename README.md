@@ -77,9 +77,8 @@
 ## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/wilderTorres18/wilderTorres18/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/mpaz2020/mpaz2020/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
-
 
 ---
 
