@@ -74,9 +74,12 @@
   <img src="https://www.codewars.com/users/Jhomar-Alexis/badges/large" alt="Codewars Badge" />
 </p>
 
+## 🐍 GitHub Contribution Snake
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mpaz2020&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github.com/wilderTorres18/wilderTorres18/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+
 
 ---
 
