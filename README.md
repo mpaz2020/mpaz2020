@@ -58,5 +58,14 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mpaz2020&theme=github-compact)
 
----
+## ✨ Wilder Torres' Awesome GitHub Stats
+
+![Wilder Torres' GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilderTorres18&show_icons=true&theme=tokyonight&hide=prs,issues)
+
+## 🗂️ Profile Summary Cards
+
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mpaz2020&theme=tokyonight)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mpaz2020&theme=tokyonight)
+![Contributions Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mpaz2020&theme=tokyonight)
+
 
