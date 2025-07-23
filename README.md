@@ -27,3 +27,14 @@
 
 ---
 
+---
+
+### 🏷️ Badges personalizados
+
+![OS](https://img.shields.io/badge/SO-Windows%2011-blue?style=flat-square&logo=windows)
+![IDE](https://img.shields.io/badge/IDE-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Stack](https://img.shields.io/badge/Stack-Full%20Stack%20JS-success?style=flat-square&logo=javascript)
+![Framework](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+
+---
+
