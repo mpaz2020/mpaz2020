@@ -103,4 +103,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="40" alt="Vite" />
 </p>
+---
+
+### 📫 Contacto
+
+- 💻 Desarrollador web de Perú 🇵🇪 +51 971375528
+- 📩 GitHub: [Jhomar-Alexis](https://github.com/Jhomar-Alexis)
+
+### 📬 También en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhomar-alexis-chero-sosa-399201262/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://portafolio-j-a.vercel.app/)
 
