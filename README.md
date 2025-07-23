@@ -71,7 +71,7 @@
 <h1 align="center">Hi 👋, I'm Medardo Paz</h1>
 
 <p align="center">
-  <img src="https://www.codewars.com/users/mpaz2020/badges/large" alt="Codewars Badge" />
+  <img src="https://www.codewars.com/users/Jhomar-Alexis/badges/large" alt="Codewars Badge" />
 </p>
 
 <p align="center">
