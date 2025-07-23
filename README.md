@@ -38,25 +38,25 @@
 
 ### 🏆 Trofeos de GitHub
 
-[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Jhomar-Alexis&theme=algolia&margin-w=10&margin-h=10)](https://github.com/Jhomar-Alexis)
+[![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=mpaz2020&theme=algolia&margin-w=10&margin-h=10)](https://github.com/mpaz2020)
 
 ---
 
 ### 📊 Estadísticas de GitHub
 
-![Jhomar-Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhomar-Alexis&show_icons=true&theme=radical)
+![Jhomar-Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpaz2020&show_icons=true&theme=radical)
 
 ---
 
 ### 🚀 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhomar-Alexis&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpaz2020&layout=compact&theme=radical)
 
 ---
 
 ### 🗓️ Mi actividad en GitHub
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jhomar-Alexis&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mpaz2020&theme=github-compact)
 
 ---
 
