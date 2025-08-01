@@ -44,7 +44,7 @@
 
 ### 📊 Estadísticas de GitHub
 
-![Jhomar-Alexis's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpaz2020&show_icons=true&theme=radical)
+![Medardo Paz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpaz2020&show_icons=true&theme=radical)
 
 ---
 
@@ -60,7 +60,7 @@
 
 ## ✨ Medardo Paz' Awesome GitHub Stats
 
-![Medardo Paz' GitHub Stats](https://github-readme-stats.vercel.app/api?username=wilderTorres18&show_icons=true&theme=tokyonight&hide=prs,issues)
+![Medardo Paz' GitHub Stats](https://github-readme-stats.vercel.app/api?username=mpaz2020&show_icons=true&theme=tokyonight&hide=prs,issues)
 
 ## 🗂️ Profile Summary Cards
 
