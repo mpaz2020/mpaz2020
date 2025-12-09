@@ -107,7 +107,7 @@
 
 ### 📫 Contacto
 
-- 💻 Desarrollador web de Perú 🇵🇪 +51 971375528
+- 💻 Desarrollador web de Perú 🇵🇪 +51 90093856
 - 📩 GitHub: [Medardo Paz](https://github.com/mpaz2020)
 
 ### 📬 También en:
